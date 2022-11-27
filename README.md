@@ -9,7 +9,7 @@ Summary:
 
 In this map, the customers/clients can filter the preferences, this will show them the heatmap that will show the temperatures of the cities.
 They can view the map directions between multiple cities with details of the nearest hotels.
-![alt text](Vacation_Itinerary/marker_layer_map.png)
+![alt text](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 
 
