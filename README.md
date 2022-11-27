@@ -12,7 +12,7 @@ In this map, the customers/clients can filter the preferences, this will show th
 
 
 They can view the map directions between multiple cities with details of the nearest hotels.
-
+![alt text](Vacation_Itinerary/marker_layer_map.png)
 
 
 
