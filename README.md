@@ -16,4 +16,4 @@ They can view the map directions between multiple cities with details of the nea
 
 A weather description to the pop-up markers will be displayed for customers so that they know what the weather is as they are traveling.
 
-![alt text](Vacation_Search/map_with_pop_ups.png)
+![alt text](Vacation_Search/WeatherPy_vacation_map_pop.png)
